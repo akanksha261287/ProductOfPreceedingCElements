@@ -60,6 +60,6 @@ Below are the list of classes and it's purposes.<br />
 **Purpose:** To calculate and validate the value with n=1000000 and C=200 and print only first 10 digits<br />
 
 **Class Name:** TestProductOfElements <br />
-**Method Name:** testSFourtQuestion  <br />
+**Method Name:** testFourtQuestion  <br />
 **Purpose:** To calculate and validate the value with n=10000000 and C=200<br />
 
