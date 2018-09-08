@@ -68,7 +68,7 @@ public class TestProductOfElements {
 	}
 	
 	@Test
-	public void testThirdQuestion() {
+	public void testFourthQuestion() {
 		int n=10000000;
 		int C=200;
 		BigInteger sumAndProductResult=calculateSumAndProduct.sumOfProduct(n ,C );
